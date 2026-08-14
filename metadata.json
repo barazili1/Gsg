@@ -1,0 +1,6 @@
+{
+  "name": "MR DOLLAR - Premium Scripting Service",
+  "description": "A high-end, dynamic single-page application with a sleek Black and Yellow theme simulating a VIP scripting service interface, verification flow, and account activation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
